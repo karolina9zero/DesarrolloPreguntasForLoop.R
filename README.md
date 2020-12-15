@@ -129,8 +129,8 @@ abline(lm(Data_chile$morosidad ~ Data_chile$porcentaje_mujeres, data = Data_chil
 
 #podemos apreciar en el grafico que la nube de datos muestra un descenso;
 #con los datos resultantes, se realiza una regresion lineal para determinar
-# si efectivamente los datos descienden,
-# la recta  que representa a los datos (linea azul en el grafico) tiene una pendiente
+#si efectivamente los datos descienden,
+#la recta  que representa a los datos (linea azul en el grafico) tiene una pendiente
 #negativa,por lo que podemos decir que a mayor porcentaje de mujeres en las empresas
 #grandes chilenas, es menor la morosidad.
 #por lo tanto si existe una relacion entre el porcentaje de mujeres y la morosidad.
